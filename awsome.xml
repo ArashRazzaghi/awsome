@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="multimedia_playwav" id="24" x="-403" y="-308">
-    <field name="WAV">pac.ww.w</field>
+  <block type="expansion_exp1power" id="44" x="-258" y="-339">
+    <field name="SERVO">ON</field>
   </block>
 </xml>
