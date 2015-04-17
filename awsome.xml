@@ -1,19 +1,3 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="1" inline="true" x="58" y="-472">
-    <value name="TIMES">
-      <block type="math_number" id="2">
-        <field name="NUM">100</field>
-      </block>
-    </value>
-    <statement name="DO">
-      <block type="led_select" id="3" inline="true">
-        <field name="ACTION">ON</field>
-        <value name="LED">
-          <block type="math_number" id="4">
-            <field name="NUM">50</field>
-          </block>
-        </value>
-      </block>
-    </statement>
-  </block>
+  <block type="movement_forward" id="30" x="18" y="-472"></block>
 </xml>
